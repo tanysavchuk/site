@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-inner {
+  width: 1400px;
+  height: 800px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.bc-gray {
+  background: gray;
+}
+
+.pading-15px {
+  padding: 15px;
+}
+.l-height-20px {
+  line-height: 20px;
+}
+.w-500px {
+  width: 500px;
+}
+.h-200px {
+  height: 200px;
+}
+.m-top-100px {
+  margin-top: 100px;
+}
+.l-height-20px {
+  line-height: 20px;
+}
+.fs-25px {
+  font-size: 25px;
+}
+.fs-30px {
+  font-size: 30px;
+}
+.ta-center {
+  text-align: center;
+}
+.td-underline-green {
+  text-decoration: underline green;
+}
